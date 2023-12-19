@@ -26,4 +26,12 @@ Contributions in the form of additional explanatory content or enhancements to e
 
 ## License
 
-[Insert License Details]
+The content in this repository is licensed under the [Creative Commons Attribution-NonCommercial 4.0 International License](https://creativecommons.org/licenses/by-nc/4.0/legalcode).
+
+This means you are free to:
+- Share: Copy and redistribute the material in any medium or format.
+- Adapt: Remix, transform, and build upon the material.
+
+Under the following terms:
+- Attribution: You must give appropriate credit, provide a link to the license, and indicate if changes were made. You should not imply endorsement by the licensor.
+- NonCommercial: You may not use the material for commercial purposes.
