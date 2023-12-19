@@ -52,5 +52,5 @@ Here are some resources I've been exploring to understand Deep Learning and rela
 >> 
 >> In summary, the idea behind text-based models is to process text input, learn from the data through training, and generate meaningful text-based output that is relevant to the specific task. The model architecture, loss functions, and training process play key roles in achieving this goal.
 >
-<sup style="position: absolute; right: 10px; padding: 10px;">[@Carter2565](http://144.24.39.217/discord)</sup>
+<sup style="position: absolute; right: 10px; padding: 10px;">[@Carter2565](https://Carter2565.dev)</sup>
 
