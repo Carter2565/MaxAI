@@ -6,7 +6,7 @@ This repository serves as a collection of comprehensive notes and explanations e
 
 ## Contents
 
-- **Notes File**: [Understanding Deep Learning and AI Concepts](link-to-your-notes-file.md)
+- **Notes File**: [Understanding Deep Learning and AI Concepts](https://github.com/Carter2565/MaxAI/blob/main/Notes.md)
 - **Contributing**: Guidelines for contributing to the repository's content.
 - **License**: Details regarding the usage and distribution of the information provided.
 
@@ -16,7 +16,7 @@ The primary objective of this repository is to compile valuable resources and th
 
 ## How to Use
 
-1. Access the [Notes File](link-to-your-notes-file.md) provided in this repository.
+1. Access the [Notes File](https://github.com/Carter2565/MaxAI/blob/main/Notes.md) provided in this repository.
 2. Explore the breakdowns and explanations of key AI concepts.
 3. Gain insights into Deep Learning methodologies, model training, and fundamental principles.
 
